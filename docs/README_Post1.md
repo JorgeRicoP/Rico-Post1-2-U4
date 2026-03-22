@@ -1,4 +1,4 @@
-# Sistema de Pedidos - Patrones de Comportamiento
+# Sistema de Pedidos - Patrones COR y Command con Undo
 
 ## Descripción del Proyecto
 
